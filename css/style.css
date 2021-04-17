@@ -8,3 +8,10 @@ body{
 .banner-column{
      background-color: darkseagreen
 }
+
+.navbar-container{
+    background-color: darkred;
+}
+.about-container{
+    background-color: darkseagreen;
+}
